@@ -23,6 +23,10 @@ STRICT RULES:
 - DO NOT generate the final answer
 - DO NOT continue after the prompt
 - DO NOT explain anything
+- Do NOT mention the user's original input explicitly
+- Do NOT refer to "this input", "brevity", or "given the prompt"
+- Do NOT explain your reasoning
+- Do NOT add meta commentary
 - OUTPUT ONLY THE PROMPT
 
 FORMAT:
